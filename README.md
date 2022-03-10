@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Reece Hewitt!
+- 👀 I’m interested in eCommerce & Social Media.
+- 🌱 I’m currently learning how to build Shopify templates from scratch using the Liquid language.
+- 📫 How to reach me - (reecehewitt22@gmail.com)
